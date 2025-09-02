@@ -1,5 +1,9 @@
 # Gun-Related Mortality Analysis
 
+Contributors: Lillian Pulaski, Gabriella Coleman, Melanie Nguyen, Renzo Guevarra
+
+May 2025
+
 A comprehensive data analysis project examining gun-related deaths in the United States (2012-2014) to identify trends, at-risk populations, and inform policy recommendations for violence prevention.
 
 ## Project Overview
